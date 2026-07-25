@@ -1,0 +1,12 @@
+build:
+  version: 1.0
+  environment: prod
+
+accounts:
+  message: "Account related apis for PROD env"
+  contactDetails:
+    name: Alok Kumar - Prod Support
+    email: alok.neemtech@gmail.com
+  onCallSupport:
+    - (+91) 7289 900 456
+    - (+91) 7289 900 456

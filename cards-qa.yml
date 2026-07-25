@@ -1,0 +1,12 @@
+build:
+  version: 1.0
+  environment: qa
+
+cards:
+  message: "Card related apis for QA env"
+  contactDetails:
+    name: Ramesh Kumar - QA
+    email: ramesh.neemtech@gmail.com
+  onCallSupport:
+    - (+91) 7289 900 123
+    - (+91) 7289 900 123

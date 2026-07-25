@@ -1,0 +1,12 @@
+build:
+  version: 1.0
+  environment: default
+
+cards:
+  message: "Card related apis"
+  contactDetails:
+    name: Prashant Kumar - Developer
+    email: prashant.neemtech@gmail.com
+  onCallSupport:
+    - (+91) 7289 900 742
+    - (+91) 7289 900 742
