@@ -3,7 +3,7 @@ build:
   environment: prod
 
 loans:
-  message: "Loan related apis for PROD env"
+  message: "Loan related apis for PRODUCTION env"
   contactDetails:
     name: Alok Kumar - Prod Support
     email: "{cipher}b1f67857ee8223a08f27f1862a00538e8cff5f9f8c5173b019ad72891d6f8eeae00e0e7e30cec1b46ad757348298a3fb"
