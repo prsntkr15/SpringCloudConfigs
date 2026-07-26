@@ -3,7 +3,7 @@ build:
   environment: prod
 
 cards:
-  message: "Card related apis for PROD environment"
+  message: "Card related apis for prod env"
   contactDetails:
     name: Alok Kumar - Prod Support
     email: alok.neemtech@gmail.com
