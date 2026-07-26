@@ -3,7 +3,7 @@ build:
   environment: prod
 
 accounts:
-  message: "Account related apis for prod env"
+  message: "Account related apis for prod webhook env"
   contactDetails:
     name: Alok Kumar - Prod Support
     email: alok.neemtech@gmail.com
