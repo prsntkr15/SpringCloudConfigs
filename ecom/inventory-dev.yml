@@ -1,0 +1,6 @@
+datasource:
+  inventorydb:
+    url: jdbc:h2:mem:inventorydb
+    driver: org.h2.Driver
+    username: sa
+    password: ''

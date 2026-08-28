@@ -1,0 +1,14 @@
+datasource:
+  inventorydb:
+    url: jdbc:h2:mem:inventorydb
+    driver: org.h2.Driver
+    username: sa
+    password: ''
+inventory:
+  message: "Inventory related apis for  LOCAL ENVIRONMENT"
+  contactDetails:
+    name: Prashant Kumar
+    email: "{cipher}ee01b7e0751867a01d55d3c6b89fffbec62d780b313c2f29a2c6ac239e5a74a80808d00cc286d7ebcfbd9fade39f7429"
+  onCallSupport:
+    - "{cipher}af200853164980895dd5b447752fb3c89f31ce896bbcc4b70b028c5592ea4bf1"
+    - "{cipher}af200853164980895dd5b447752fb3c89f31ce896bbcc4b70b028c5592ea4bf1"

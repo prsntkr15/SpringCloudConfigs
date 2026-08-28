@@ -1,0 +1,6 @@
+datasource:
+  paymentdb:
+    url: jdbc:h2:mem:paymentdb
+    driver: org.h2.Driver
+    username: sa
+    password: ''

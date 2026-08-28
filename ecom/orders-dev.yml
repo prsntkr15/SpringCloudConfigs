@@ -1,0 +1,6 @@
+datasource:
+  orderdb:
+    url: jdbc:h2:mem:orderdb
+    driver: org.h2.Driver
+    username: sa
+    password: ''

@@ -1,0 +1,6 @@
+datasource:
+  cartdb:
+    url: jdbc:h2:mem:cartdb
+    driver: org.h2.Driver
+    username: sa
+    password: ''
